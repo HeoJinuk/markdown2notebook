@@ -17,13 +17,13 @@ pip install nbformat
 Run the script using the following command:
 
 ```sh
-python script.py <input_markdown_file> <output_notebook_file>
+python convert.py <input_markdown_file> <output_notebook_file>
 ```
 
 ### Example:
 
 ```sh
-python script.py example.md example.ipynb
+python convert.py example.md example.ipynb
 ```
 
 ## How It Works
